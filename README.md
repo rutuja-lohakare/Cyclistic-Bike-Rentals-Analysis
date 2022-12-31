@@ -16,8 +16,11 @@ I had used Cyclistic’s historical trip data to analyze and identify trends. Yo
 ## Business Task
 Objective : To clean, analyze and visualize the data to observe how casual riders use the bike rentals differently from annual member riders. 
 Tools: R for data cleaning and data visualization.
+
 Dataset: Cyclistic’s historical trip data from December 2021 to November 2022
+
 Link: https://divvy-tripdata.s3.amazonaws.com/index.html
+
 
 ## Documentation
 You will find my project documentation above. I had explained every step of my project, my recommendatons and plots in project documentation.
