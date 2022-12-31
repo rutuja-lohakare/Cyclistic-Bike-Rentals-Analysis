@@ -24,4 +24,4 @@ Link: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 
 ## Documentation
-You will find my project documentation above. I had explained every step of my project, my recommendatons and plots in project documentation.
+You will find my project documentation above. I have explained every step of my project, my recommendatons and plots in project documentation.
