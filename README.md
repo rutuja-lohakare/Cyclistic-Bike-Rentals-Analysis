@@ -1,9 +1,7 @@
-# Google Data Analytics Capstone Project: Cyclistic bike-share analysis
-
-This repository contains my Google Data Analytics Capstone Project in R for a Cyclistic bike-share case study. 
+# Cyclistic: Bike Rentals Analysis
 
 ## Background
-The project is a part of Google Data Analytics Certification course capstone. The scenario involves analysis of the trip data of Cyclistic bike share company.
+The project is a part of the Google Data Analytics Certification course capstone. The scenario involves analysis of the trip data of the Cyclistic bike share company.
 
 The company has two models for availing service: individual passes which are called "casual" riders and annual subscriptions called "member" riders. The company operates in Chicago with around 6000 bicycles at 700 stations.
 
