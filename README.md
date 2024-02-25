@@ -1,25 +1,25 @@
 # Cyclistic: Bike Rentals Analysis
 
-## Background
-The project is a part of the Google Data Analytics Certification course capstone. The scenario involves analysis of the trip data of the Cyclistic bike share company.
+## Introduction
+This repository contains an analysis of Cyclistic's bike share data, focusing on understanding the usage patterns of annual members and casual riders. The goal is to inform marketing strategies aimed at converting casual riders into annual members.
 
-The company has two models for availing service: individual passes which are called "casual" riders and annual subscriptions called "member" riders. The company operates in Chicago with around 6000 bicycles at 700 stations.
+## Data Cleaning and Preparation
+- Utilized R for data manipulation and cleaning.
+- Tasks included loading data, merging datasets, removing irrelevant columns, and creating date and time columns.
 
-Maximizing the number of annual members will be key to future growth as it ensures financial sustainability and customer retention. The insights can help devise effective marketing strategies aimed to convert more casual riders into annual members.
+## Data Analysis
+- Conducted statistical analysis to understand rider usage patterns.
+- Calculated key statistical measures (mean, median, max, min) for different membership types.
 
+## Data Visualization
+- Created visualizations to depict usage patterns.
+- Visualizations include rides per day, month, most used bike types, and average ride time per week.
 
-## Dataset
-I had used Cyclistic’s historical trip data to analyze and identify trends. You can download the previous 12 months of Cyclistic trip data here. (Note: The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and will enable you to answer the business questions. The data has been made available by Motivate International Inc. under this license.)
+## Results and Interpretations
+- Identified trends such as higher casual usage in warmer months and longer ride durations.
+- Observed differences in preferences for bike types and riding days between casual and annual members.
 
-## Business Task
-Objective : To clean, analyze and visualize the data to observe how casual riders use the bike rentals differently from annual member riders.
- 
-Tools: R for data cleaning and data visualization.
+## Conclusion
+- Provided insights for targeted marketing strategies.
+- Suggestions for tailored membership plans and pricing strategies to convert casual riders.
 
-Dataset: Cyclistic’s historical trip data from December 2021 to November 2022
-
-Link: https://divvy-tripdata.s3.amazonaws.com/index.html
-
-
-## Documentation
-You will find my project documentation above. I have explained every step of my project, my recommendatons and plots in project documentation.
